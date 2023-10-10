@@ -3,17 +3,27 @@
   <div>
     "Я программирую до тех, пор пока не почувстую боль, а потом ещё десять раз"
   </div>
+  <div>
+    "I program until I feel pain, and then ten more times"
+  </div>
 </div>
 
+![](https://komarev.com/ghpvc/?username=MorozovDesu&color=F5E47A)
 
+### My stats 😹:
 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=MorozovDesu&theme=nightowl&show_icons=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorozovDesu&layout=compact" />
+</div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MorozovDesu&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-<!-- <div align="center" >
+---
+<div align="center" >
   <img src="https://i.pinimg.com/originals/f8/92/6b/f8926b6b661d0f52e71fcaf8a2e131c5.gif" width="150"/>
-</div> -->
+</div> 
 
 
 
