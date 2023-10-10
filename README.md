@@ -8,12 +8,12 @@
   </div>
 </div>
 
-![](https://komarev.com/ghpvc/?username=MorozovDesu&color=F5E47A)
+![](https://komarev.com/ghpvc/?username=MorozovDesu&color=87CEEB)
 
 ### My stats 😹:
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=MorozovDesu&theme=nightowl&show_icons=true" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=MorozovDesu&theme=transparentl&show_icons=true" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorozovDesu&layout=compact" />
 </div>
