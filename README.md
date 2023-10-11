@@ -8,8 +8,6 @@
   </div>
 </div>
 
-![](https://komarev.com/ghpvc/?username=MorozovDesu&color=87CEEB)
-
 ### My stats 😹:
 
 <div>
