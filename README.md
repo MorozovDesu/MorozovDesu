@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47xjwmuiec0s3uafjsbhw7ttvugsm0wv9h4m49exrg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"/>
   <div>
@@ -8,7 +9,7 @@
   </div>
 </div>
 
-### My stats 😹:
+### My stats :blue_heart:😹 :
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=MorozovDesu&theme=transparentl&show_icons=true" />
