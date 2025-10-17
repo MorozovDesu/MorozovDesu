@@ -15,7 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorozovDesu&layout=compact" />
 </div>
 
-123
 [![trophy](https://github-profile-trophy.vercel.app/?username=MorozovDesu&theme=nord)](https://github.com/ryo-ma/nord_bright)
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorozovDesu&theme=nord_bright)
